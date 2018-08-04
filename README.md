@@ -25,3 +25,7 @@ The details of data attributes in the dataset are as follows :
 14.casual: count of casual users
 15.registered: count of registered users
 16.cnt: count of total rental bikes including both casual and registered
+
+
+I have performed data analysis on the factors that are affecting total count of the variable and designed a model which predicts the total count and made a complete report of the project.
+
